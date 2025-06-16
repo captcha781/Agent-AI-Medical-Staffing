@@ -1,0 +1,1592 @@
+[
+  {
+    "name": "Dr. Aarav Kumar",
+    "speciality": "Cardiology",
+    "location": "Chennai",
+    "certifications": [
+      "DM (Cardiology)",
+      "Fellowship in Interventional Cardiology"
+    ],
+    "availability": "Mondays and Wednesdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Aanya Sharma",
+    "speciality": "Dermatology",
+    "location": "Coimbatore",
+    "certifications": [
+      "MD (Dermatology, Venereology & Leprosy)"
+    ],
+    "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Advik Patel",
+    "speciality": "Orthopedics",
+    "location": "Madurai",
+    "certifications": [
+      "MS (Orthopedics)",
+      "Fellowship in Joint Replacement Surgery"
+    ],
+    "availability": "Wednesdays and Saturdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Anika Reddy",
+    "speciality": "Pediatrics",
+    "location": "Tiruchirappalli",
+    "certifications": [
+      "MD (Pediatrics)",
+      "DCH (Diploma in Child Health)"
+    ],
+    "availability": "Mondays and Thursdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Arjun Singh",
+    "speciality": "Neurology",
+    "location": "Salem",
+    "certifications": [
+      "DM (Neurology)"
+    ],
+    "availability": "Tuesdays and Fridays, 9 AM - 5 PM, willing to travel"
+  },
+  {
+    "name": "Dr. Diya Gupta",
+    "speciality": "Gynaecology",
+    "location": "Tirunelveli",
+    "certifications": [
+      "MS (Obstetrics & Gynaecology)",
+      "DGO (Diploma in Gynaecology and Obstetrics)"
+    ],
+    "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Ishaan Nair",
+    "speciality": "ENT",
+    "location": "Vellore",
+    "certifications": [
+      "MS (ENT)"
+    ],
+    "availability": "Mondays and Thursdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Kavya Menon",
+    "speciality": "Ophthalmology",
+    "location": "Erode",
+    "certifications": [
+      "MS (Ophthalmology)",
+      "DO (Diploma in Ophthalmology)"
+    ],
+    "availability": "Tuesdays and Fridays, 11 AM - 7 PM, available for teleconsultation"
+  },
+  {
+    "name": "Dr. Mihir Joshi",
+    "speciality": "Pulmonology",
+    "location": "Thoothukudi",
+    "certifications": [
+      "DM (Pulmonary Medicine)"
+    ],
+    "availability": "Wednesdays and Saturdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Myra Krishnan",
+    "speciality": "Endocrinology",
+    "location": "Nagercoil",
+    "certifications": [
+      "DM (Endocrinology)"
+    ],
+    "availability": "Mondays and Thursdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Vivaan Iyer",
+    "speciality": "Gastroenterology",
+    "location": "Thanjavur",
+    "certifications": [
+      "DM (Gastroenterology)"
+    ],
+    "availability": "Tuesdays and Fridays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Saanvi Rao",
+    "speciality": "Oncology",
+    "location": "Dindigul",
+    "certifications": [
+      "DM (Oncology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 11 AM - 7 PM, willing to travel"
+  },
+  {
+    "name": "Dr. Reyansh Pillai",
+    "speciality": "Nephrology",
+    "location": "Ranipet",
+    "certifications": [
+      "DM (Nephrology)"
+    ],
+    "availability": "Mondays and Thursdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Tara Subramanian",
+    "speciality": "Rheumatology",
+    "location": "Sivakasi",
+    "certifications": [
+      "DM (Rheumatology)"
+    ],
+    "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Ishir Verma",
+    "speciality": "Urology",
+    "location": "Karur",
+    "certifications": [
+      "M.Ch (Urology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Anvi Desai",
+    "speciality": "Psychiatry",
+    "location": "Udhagamandalam",
+    "certifications": [
+      "MD (Psychiatry)",
+      "DPM (Diploma in Psychological Medicine)"
+    ],
+    "availability": "Mondays and Thursdays, 11 AM - 7 PM, available for online consultation"
+  },
+  {
+    "name": "Dr. Kabir Shah",
+    "speciality": "General Surgery",
+    "location": "Hosur",
+    "certifications": [
+      "MS (General Surgery)"
+    ],
+    "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Riya Choudhary",
+    "speciality": "General Medicine",
+    "location": "Pudukkottai",
+    "certifications": [
+      "MD (General Medicine)"
+    ],
+    "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Shaurya Pillai",
+    "speciality": "Anesthesiology",
+    "location": "Kanchipuram",
+    "certifications": [
+      "MD (Anesthesiology)",
+      "DA (Diploma in Anesthesiology)"
+    ],
+    "availability": "On-call basis, willing to travel"
+  },
+  {
+    "name": "Dr. Shanaya Murthy",
+    "speciality": "Radiology",
+    "location": "Tiruvannamalai",
+    "certifications": [
+      "MD (Radiodiagnosis)",
+      "DMRD (Diploma in Medical Radio-Diagnosis)"
+    ],
+    "availability": "Mondays and Thursdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Aarush Reddy",
+    "speciality": "Cardiology",
+    "location": "Kumbakonam",
+    "certifications": [
+      "DM (Cardiology)"
+    ],
+    "availability": "Tuesdays and Fridays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Aisha Begum",
+    "speciality": "Dermatology",
+    "location": "Rajapalayam",
+    "certifications": [],
+    "availability": "Wednesdays and Saturdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Vivaan Menon",
+    "speciality": "Orthopedics",
+    "location": "Neyveli",
+    "certifications": [
+      "MS (Orthopedics)"
+    ],
+    "availability": "Mondays and Thursdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Ananya Sharma",
+    "speciality": "Pediatrics",
+    "location": "Ambur",
+    "certifications": [
+      "MD (Pediatrics)"
+    ],
+    "availability": "Tuesdays and Fridays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Rohan Kumar",
+    "speciality": "Neurology",
+    "location": "Karaikudi",
+    "certifications": [],
+    "availability": "Wednesdays and Saturdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Siya Singh",
+    "speciality": "Gynaecology",
+    "location": "Nagapattinam",
+    "certifications": [
+      "MS (Obstetrics & Gynaecology)"
+    ],
+    "availability": "Mondays and Thursdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Ayaan Khan",
+    "speciality": "ENT",
+    "location": "Cuddalore",
+    "certifications": [],
+    "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Ishita Das",
+    "speciality": "Ophthalmology",
+    "location": "Theni",
+    "certifications": [
+      "MS (Ophthalmology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Krishna Sharma",
+    "speciality": "Pulmonology",
+    "location": "Virudhunagar",
+    "certifications": [
+      "MD (Respiratory Medicine)"
+    ],
+    "availability": "Mondays and Thursdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Prisha Patel",
+    "speciality": "Endocrinology",
+    "location": "Krishnagiri",
+    "certifications": [],
+    "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Samar Verma",
+    "speciality": "Gastroenterology",
+    "location": "Ramanathapuram",
+    "certifications": [
+      "DM (Gastroenterology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Navya Reddy",
+    "speciality": "Oncology",
+    "location": "Tiruppur",
+    "certifications": [
+      "DM (Medical Oncology)"
+    ],
+    "availability": "Mondays and Thursdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Armaan Ali",
+    "speciality": "Nephrology",
+    "location": "Pollachi",
+    "certifications": [],
+    "availability": "Tuesdays and Fridays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Sara Kumar",
+    "speciality": "Rheumatology",
+    "location": "Mettupalayam",
+    "certifications": [],
+    "availability": "Wednesdays and Saturdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Veer Singh",
+    "speciality": "Urology",
+    "location": "Aruppukkottai",
+    "certifications": [
+      "M.Ch (Urology)"
+    ],
+    "availability": "Mondays and Thursdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Zara Khan",
+    "speciality": "Psychiatry",
+    "location": "Sattur",
+    "certifications": [
+      "MD (Psychiatry)"
+    ],
+    "availability": "Tuesdays and Fridays, 8 AM - 4 PM, available for video consultation"
+  },
+  {
+    "name": "Dr. Aditya Prasad",
+    "speciality": "General Surgery",
+    "location": "Paramakudi",
+    "certifications": [
+      "MS (General Surgery)"
+    ],
+    "availability": "Wednesdays and Saturdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Naina Gupta",
+    "speciality": "General Medicine",
+    "location": "Sivaganga",
+    "certifications": [],
+    "availability": "Mondays and Thursdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Yuvan Raja",
+    "speciality": "Anesthesiology",
+    "location": "Manapparai",
+    "certifications": [
+      "MD (Anesthesiology)"
+    ],
+    "availability": "On-call basis"
+  },
+  {
+    "name": "Dr. Myra Nair",
+    "speciality": "Radiology",
+    "location": "Tindivanam",
+    "certifications": [
+      "MD (Radiodiagnosis)"
+    ],
+    "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Siddharth Menon",
+    "speciality": "Cardiology",
+    "location": "Villupuram",
+    "certifications": [
+      "DM (Cardiology)",
+      "Fellowship in Echocardiography"
+    ],
+    "availability": "Wednesdays and Saturdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Ananya Iyer",
+    "speciality": "Dermatology",
+    "location": "Chidambaram",
+    "certifications": [
+      "MD (Dermatology)"
+    ],
+    "availability": "Mondays and Thursdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Vikram Singh",
+    "speciality": "Orthopedics",
+    "location": "Mayiladuthurai",
+    "certifications": [],
+    "availability": "Tuesdays and Fridays, 9 AM - 5 PM, willing to travel"
+  },
+  {
+    "name": "Dr. Ishani Patel",
+    "speciality": "Pediatrics",
+    "location": "Thiruvarur",
+    "certifications": [
+      "DNB (Pediatrics)"
+    ],
+    "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Aryan Sharma",
+    "speciality": "Neurology",
+    "location": "Palani",
+    "certifications": [
+      "DM (Neurology)"
+    ],
+    "availability": "Mondays and Thursdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Kiara Reddy",
+    "speciality": "Gynaecology",
+    "location": "Kovilpatti",
+    "certifications": [],
+    "availability": "Tuesdays and Fridays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Dev Kumar",
+    "speciality": "ENT",
+    "location": "Tenkasi",
+    "certifications": [
+      "MS (ENT)",
+      "DLO (Diploma in Otorhinolaryngology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Eva Thomas",
+    "speciality": "Ophthalmology",
+    "location": "Sankarankovil",
+    "certifications": [],
+    "availability": "Mondays and Thursdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Jai Mehta",
+    "speciality": "Pulmonology",
+    "location": "Edappadi",
+    "certifications": [
+      "DM (Pulmonary Medicine)"
+    ],
+    "availability": "Tuesdays and Fridays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Ritu Verma",
+    "speciality": "Endocrinology",
+    "location": "Dharapuram",
+    "certifications": [],
+    "availability": "Wednesdays and Saturdays, 11 AM - 7 PM, teleconsultation available"
+  },
+  {
+    "name": "Dr. Neil Shah",
+    "speciality": "Gastroenterology",
+    "location": "Attur",
+    "certifications": [
+      "DNB (Gastroenterology)"
+    ],
+    "availability": "Mondays and Thursdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Zoya Agarwal",
+    "speciality": "Oncology",
+    "location": "Mettur",
+    "certifications": [
+      "DM (Oncology)"
+    ],
+    "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Yuvraj Singh",
+    "speciality": "Nephrology",
+    "location": "Gobichettipalayam",
+    "certifications": [],
+    "availability": "Wednesdays and Saturdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Aisha Khan",
+    "speciality": "Rheumatology",
+    "location": "Udumalaipettai",
+    "certifications": [],
+    "availability": "Mondays and Thursdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Krish Patel",
+    "speciality": "Urology",
+    "location": "Sathyamangalam",
+    "certifications": [
+      "M.Ch (Urology)"
+    ],
+    "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Meera Gupta",
+    "speciality": "Psychiatry",
+    "location": "Namakkal",
+    "certifications": [],
+    "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Arjun Reddy",
+    "speciality": "General Surgery",
+    "location": "Tiruchengode",
+    "certifications": [
+      "MS (General Surgery)"
+    ],
+    "availability": "Mondays and Thursdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Diya Sharma",
+    "speciality": "General Medicine",
+    "location": "Rasipuram",
+    "certifications": [
+      "MD (General Medicine)"
+    ],
+    "availability": "Tuesdays and Fridays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Ishaan Kumar",
+    "speciality": "Anesthesiology",
+    "location": "Vaniyambadi",
+    "certifications": [],
+    "availability": "On-call, willing to travel"
+  },
+  {
+    "name": "Dr. Kavya Singh",
+    "speciality": "Radiology",
+    "location": "Gudiyatham",
+    "certifications": [
+      "DNB (Radiodiagnosis)"
+    ],
+    "availability": "Wednesdays and Saturdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Mihir Nair",
+    "speciality": "Cardiology",
+    "location": "Avadi",
+    "certifications": [
+      "DM (Cardiology)"
+    ],
+    "availability": "Mondays and Thursdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Myra Patel",
+    "speciality": "Dermatology",
+    "location": "Tambaram",
+    "certifications": [],
+    "availability": "Tuesdays and Fridays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Vivaan Shah",
+    "speciality": "Orthopedics",
+    "location": "Pallavaram",
+    "certifications": [
+      "MS (Orthopedics)"
+    ],
+    "availability": "Wednesdays and Saturdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Saanvi Iyer",
+    "speciality": "Pediatrics",
+    "location": "Alandur",
+    "certifications": [
+      "MD (Pediatrics)"
+    ],
+    "availability": "Mondays and Thursdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Reyansh Gupta",
+    "speciality": "Neurology",
+    "location": "Tiruvottiyur",
+    "certifications": [
+      "DM (Neurology)"
+    ],
+    "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Tara Menon",
+    "speciality": "Gynaecology",
+    "location": "Ambattur",
+    "certifications": [
+      "DGO",
+      "MS (Obstetrics & Gynaecology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Ishir Kumar",
+    "speciality": "ENT",
+    "location": "Madhavaram",
+    "certifications": [
+      "MS (ENT)"
+    ],
+    "availability": "Mondays and Thursdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Anvi Sharma",
+    "speciality": "Ophthalmology",
+    "location": "Kattivakkam",
+    "certifications": [],
+    "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Kabir Singh",
+    "speciality": "Pulmonology",
+    "location": "Ennore",
+    "certifications": [],
+    "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Riya Pillai",
+    "speciality": "Endocrinology",
+    "location": "Thirunindravur",
+    "certifications": [
+      "DM (Endocrinology)"
+    ],
+    "availability": "Mondays and Thursdays, 8 AM - 4 PM, available for virtual consultation"
+  },
+  {
+    "name": "Dr. Shaurya Desai",
+    "speciality": "Gastroenterology",
+    "location": "Poonamallee",
+    "certifications": [
+      "DM (Gastroenterology)"
+    ],
+    "availability": "Tuesdays and Fridays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Shanaya Krishnan",
+    "speciality": "Oncology",
+    "location": "Anakaputhur",
+    "certifications": [
+      "MD (Radiation Oncology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Aarush Verma",
+    "speciality": "Nephrology",
+    "location": "Pammal",
+    "certifications": [
+      "DM (Nephrology)"
+    ],
+    "availability": "Mondays and Thursdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Aisha Rao",
+    "speciality": "Rheumatology",
+    "location": "Thirumazhisai",
+    "certifications": [],
+    "availability": "Tuesdays and Fridays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Vivaan Nair",
+    "speciality": "Urology",
+    "location": "Manali",
+    "certifications": [
+      "M.Ch (Urology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Ananya Singh",
+    "speciality": "Psychiatry",
+    "location": "Minjur",
+    "certifications": [
+      "MD (Psychiatry)"
+    ],
+    "availability": "Mondays and Thursdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Rohan Patel",
+    "speciality": "General Surgery",
+    "location": "Sholavandan",
+    "certifications": [
+      "MS (General Surgery)",
+      "Fellowship in Minimal Access Surgery"
+    ],
+    "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Siya Reddy",
+    "speciality": "General Medicine",
+    "location": "Thirumangalam",
+    "certifications": [
+      "MD (General Medicine)"
+    ],
+    "availability": "Wednesdays and Saturdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Ayaan Sharma",
+    "speciality": "Anesthesiology",
+    "location": "Usilampatti",
+    "certifications": [],
+    "availability": "On-call, willing to travel"
+  },
+  {
+    "name": "Dr. Ishita Menon",
+    "speciality": "Radiology",
+    "location": "Peraiyur",
+    "certifications": [
+      "MD (Radiodiagnosis)"
+    ],
+    "availability": "Mondays and Thursdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Krishna Kumar",
+    "speciality": "Cardiology",
+    "location": "Melur",
+    "certifications": [
+      "DNB (Cardiology)"
+    ],
+    "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Prisha Iyer",
+    "speciality": "Dermatology",
+    "location": "Vadipatti",
+    "certifications": [
+      "DDVL (Diploma in Dermatology, Venereology, and Leprosy)"
+    ],
+    "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Samar Singh",
+    "speciality": "Orthopedics",
+    "location": "Thirupuvanam",
+    "certifications": [],
+    "availability": "Mondays and Thursdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Navya Gupta",
+    "speciality": "Pediatrics",
+    "location": "Alanganallur",
+    "certifications": [
+      "MD (Pediatrics)"
+    ],
+    "availability": "Tuesdays and Fridays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Armaan Joshi",
+    "speciality": "Neurology",
+    "location": "Tirupparankundram",
+    "certifications": [
+      "DM (Neurology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Sara Khan",
+    "speciality": "Gynaecology",
+    "location": "Anaimalai",
+    "certifications": [
+      "MS (Obstetrics & Gynaecology)"
+    ],
+    "availability": "Mondays and Thursdays, 10 AM - 6 PM, willing to travel"
+  },
+  {
+    "name": "Dr. Veer Kumar",
+    "speciality": "ENT",
+    "location": "Valparai",
+    "certifications": [
+      "DLO"
+    ],
+    "availability": "Tuesdays and Fridays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Zara Sharma",
+    "speciality": "Ophthalmology",
+    "location": "Sulur",
+    "certifications": [
+      "MS (Ophthalmology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Aditya Menon",
+    "speciality": "Pulmonology",
+    "location": "Karamadai",
+    "certifications": [
+      "MD (Tuberculosis & Respiratory Diseases)"
+    ],
+    "availability": "Mondays and Thursdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Naina Pillai",
+    "speciality": "Endocrinology",
+    "location": "Perur",
+    "certifications": [],
+    "availability": "Tuesdays and Fridays, 10 AM - 6 PM, teleconsultation"
+  },
+  {
+    "name": "Dr. Yuvan Reddy",
+    "speciality": "Gastroenterology",
+    "location": "Thondamuthur",
+    "certifications": [
+      "DM (Gastroenterology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Myra Khan",
+    "speciality": "Oncology",
+    "location": "Annur",
+    "certifications": [],
+    "availability": "Mondays and Thursdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Siddharth Singh",
+    "speciality": "Nephrology",
+    "location": "Kinathukadavu",
+    "certifications": [
+      "DM (Nephrology)"
+    ],
+    "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Ananya Nair",
+    "speciality": "Rheumatology",
+    "location": "Madukkarai",
+    "certifications": [],
+    "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Vikram Joshi",
+    "speciality": "Urology",
+    "location": "Gudalur (Coimbatore)",
+    "certifications": [
+      "M.Ch (Urology)"
+    ],
+    "availability": "Mondays and Thursdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Ishani Verma",
+    "speciality": "Psychiatry",
+    "location": "Kavundampalayam",
+    "certifications": [
+      "DPM"
+    ],
+    "availability": "Tuesdays and Fridays, 11 AM - 7 PM, online sessions available"
+  },
+  {
+    "name": "Dr. Aryan Kumar",
+    "speciality": "General Surgery",
+    "location": "Veerakeralam",
+    "certifications": [
+      "MS (General Surgery)"
+    ],
+    "availability": "Wednesdays and Saturdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Kiara Sharma",
+    "speciality": "General Medicine",
+    "location": "Periyanaickenpalayam",
+    "certifications": [],
+    "availability": "Mondays and Thursdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Dev Patel",
+    "speciality": "Anesthesiology",
+    "location": "Narasimhanaickenpalayam",
+    "certifications": [
+      "MD (Anesthesiology)"
+    ],
+    "availability": "On-call basis, available for emergencies"
+  },
+  {
+    "name": "Dr. Eva Singh",
+    "speciality": "Radiology",
+    "location": "Thudiyalur",
+    "certifications": [],
+    "availability": "Tuesdays and Fridays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Jai Menon",
+    "speciality": "Cardiology",
+    "location": "Saravanampatti",
+    "certifications": [
+      "DM (Cardiology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Ritu Reddy",
+    "speciality": "Dermatology",
+    "location": "Vadavalli",
+    "certifications": [
+      "MD (Dermatology)"
+    ],
+    "availability": "Mondays and Thursdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Neil Iyer",
+    "speciality": "Orthopedics",
+    "location": "Ettimadai",
+    "certifications": [
+      "MS (Orthopedics)",
+      "Fellowship in Arthroscopy"
+    ],
+    "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Zoya Khan",
+    "speciality": "Pediatrics",
+    "location": "Othakalmandapam",
+    "certifications": [
+      "DCH"
+    ],
+    "availability": "Wednesdays and Saturdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Yuvraj Nair",
+    "speciality": "Neurology",
+    "location": "Malumichampatti",
+    "certifications": [],
+    "availability": "Mondays and Thursdays, 11 AM - 7 PM, willing to travel"
+  },
+  {
+    "name": "Dr. Aisha Patel",
+    "speciality": "Gynaecology",
+    "location": "Chettipalayam",
+    "certifications": [
+      "DGO",
+      "MS (Obstetrics & Gynaecology)"
+    ],
+    "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Krish Sharma",
+    "speciality": "ENT",
+    "location": "Irugur",
+    "certifications": [
+      "MS (ENT)"
+    ],
+    "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Meera Singh",
+    "speciality": "Ophthalmology",
+    "location": "Pallapalayam",
+    "certifications": [],
+    "availability": "Mondays and Thursdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Arjun Kumar",
+    "speciality": "Pulmonology",
+    "location": "Kannampalayam",
+    "certifications": [
+      "DNB (Respiratory Diseases)"
+    ],
+    "availability": "Tuesdays and Fridays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Diya Menon",
+    "speciality": "Endocrinology",
+    "location": "Peelamedu",
+    "certifications": [
+      "DM (Endocrinology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 9 AM - 5 PM, online consultation available"
+  },
+  {
+    "name": "Dr. Ishaan Reddy",
+    "speciality": "Gastroenterology",
+    "location": "Ganapathy",
+    "certifications": [],
+    "availability": "Mondays and Thursdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Kavya Iyer",
+    "speciality": "Oncology",
+    "location": "Singanallur",
+    "certifications": [
+      "DM (Medical Oncology)"
+    ],
+    "availability": "Tuesdays and Fridays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Mihir Gupta",
+    "speciality": "Nephrology",
+    "location": "Ramanathapuram (Coimbatore)",
+    "certifications": [
+      "DM (Nephrology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Myra Verma",
+    "speciality": "Rheumatology",
+    "location": "Ukkadam",
+    "certifications": [],
+    "availability": "Mondays and Thursdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Vivaan Pillai",
+    "speciality": "Urology",
+    "location": "Town Hall",
+    "certifications": [
+      "M.Ch (Urology)"
+    ],
+    "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Saanvi Shah",
+    "speciality": "Psychiatry",
+    "location": "R.S. Puram",
+    "certifications": [
+      "MD (Psychiatry)"
+    ],
+    "availability": "Wednesdays and Saturdays, 8 AM - 4 PM, video consultations"
+  },
+  {
+    "name": "Dr. Reyansh Krishnan",
+    "speciality": "General Surgery",
+    "location": "Saibaba Colony",
+    "certifications": [
+      "MS (General Surgery)"
+    ],
+    "availability": "Mondays and Thursdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Tara Sharma",
+    "speciality": "General Medicine",
+    "location": "Gandhipuram",
+    "certifications": [],
+    "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Ishir Singh",
+    "speciality": "Anesthesiology",
+    "location": "Sivananda Colony",
+    "certifications": [
+      "DA"
+    ],
+    "availability": "On-call"
+  },
+  {
+    "name": "Dr. Anvi Nair",
+    "speciality": "Radiology",
+    "location": "Tatabad",
+    "certifications": [
+      "MD (Radiodiagnosis)"
+    ],
+    "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Kabir Menon",
+    "speciality": "Cardiology",
+    "location": "Lal Bahadur Nagar",
+    "certifications": [
+      "DM (Cardiology)",
+      "FACC (Fellow of the American College of Cardiology)"
+    ],
+    "availability": "Mondays and Thursdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Riya Iyer",
+    "speciality": "Dermatology",
+    "location": "Gopalapuram",
+    "certifications": [
+      "MD (Dermatology)",
+      "Fellowship in Cosmetic Dermatology"
+    ],
+    "availability": "Tuesdays and Fridays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Shaurya Reddy",
+    "speciality": "Orthopedics",
+    "location": "Race Course",
+    "certifications": [
+      "MS (Orthopedics)"
+    ],
+    "availability": "Wednesdays and Saturdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Shanaya Kumar",
+    "speciality": "Pediatrics",
+    "location": "Puliakulam",
+    "certifications": [],
+    "availability": "Mondays and Thursdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Aarush Singh",
+    "speciality": "Neurology",
+    "location": "Sowripalayam",
+    "certifications": [
+      "DM (Neurology)"
+    ],
+    "availability": "Tuesdays and Fridays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Aisha Gupta",
+    "speciality": "Gynaecology",
+    "location": "Nehru Nagar",
+    "certifications": [
+      "DGO"
+    ],
+    "availability": "Wednesdays and Saturdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Vivaan Sharma",
+    "speciality": "ENT",
+    "location": "Kalapatti",
+    "certifications": [
+      "MS (ENT)"
+    ],
+    "availability": "Mondays and Thursdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Ananya Menon",
+    "speciality": "Ophthalmology",
+    "location": "Vilankurichi",
+    "certifications": [],
+    "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Rohan Pillai",
+    "speciality": "Pulmonology",
+    "location": "Cheranmanagar",
+    "certifications": [
+      "MD (Respiratory Medicine)"
+    ],
+    "availability": "Wednesdays and Saturdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Siya Nair",
+    "speciality": "Endocrinology",
+    "location": "Thiruvalluvar Nagar",
+    "certifications": [
+      "DM (Endocrinology)"
+    ],
+    "availability": "Mondays and Thursdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Ayaan Iyer",
+    "speciality": "Gastroenterology",
+    "location": "Hope College",
+    "certifications": [
+      "DNB (Gastroenterology)"
+    ],
+    "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Ishita Reddy",
+    "speciality": "Oncology",
+    "location": "Chinnavedampatti",
+    "certifications": [],
+    "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Krishna Singh",
+    "speciality": "Nephrology",
+    "location": "Krishnarayapuram",
+    "certifications": [
+      "DM (Nephrology)"
+    ],
+    "availability": "Mondays and Thursdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Prisha Verma",
+    "speciality": "Rheumatology",
+    "location": "Ganapathy Pudur",
+    "certifications": [
+      "DM (Rheumatology)"
+    ],
+    "availability": "Tuesdays and Fridays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Samar Kumar",
+    "speciality": "Urology",
+    "location": "Athipalayam",
+    "certifications": [],
+    "availability": "Wednesdays and Saturdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Navya Patel",
+    "speciality": "Psychiatry",
+    "location": "Kovaipudur",
+    "certifications": [
+      "MD (Psychiatry)"
+    ],
+    "availability": "Mondays and Thursdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Armaan Gupta",
+    "speciality": "General Surgery",
+    "location": "Kuniyamuthur",
+    "certifications": [
+      "MS (General Surgery)"
+    ],
+    "availability": "Tuesdays and Fridays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Sara Singh",
+    "speciality": "General Medicine",
+    "location": "Sugunapuram",
+    "certifications": [
+      "DNB (General Medicine)"
+    ],
+    "availability": "Wednesdays and Saturdays, 11 AM - 7 PM, available for home visits"
+  },
+  {
+    "name": "Dr. Veer Menon",
+    "speciality": "Anesthesiology",
+    "location": "Eachanari",
+    "certifications": [
+      "MD (Anesthesiology)"
+    ],
+    "availability": "On-call"
+  },
+  {
+    "name": "Dr. Zara Nair",
+    "speciality": "Radiology",
+    "location": "Podanur",
+    "certifications": [],
+    "availability": "Mondays and Thursdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Aditya Iyer",
+    "speciality": "Cardiology",
+    "location": "Sundarapuram",
+    "certifications": [
+      "DM (Cardiology)"
+    ],
+    "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Naina Sharma",
+    "speciality": "Dermatology",
+    "location": "Kurichi",
+    "certifications": [
+      "MD (Dermatology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Yuvan Patel",
+    "speciality": "Orthopedics",
+    "location": "Sidhapudur",
+    "certifications": [
+      "MS (Orthopedics)"
+    ],
+    "availability": "Mondays and Thursdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Myra Reddy",
+    "speciality": "Pediatrics",
+    "location": "Athuppalam",
+    "certifications": [
+      "MD (Pediatrics)"
+    ],
+    "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Siddharth Kumar",
+    "speciality": "Neurology",
+    "location": "Selvapuram",
+    "certifications": [],
+    "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Ananya Singh",
+    "speciality": "Gynaecology",
+    "location": "Pattanam",
+    "certifications": [
+      "MS (Obstetrics & Gynaecology)"
+    ],
+    "availability": "Mondays and Thursdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Vikram Menon",
+    "speciality": "ENT",
+    "location": "Ondipudur",
+    "certifications": [
+      "MS (ENT)"
+    ],
+    "availability": "Tuesdays and Fridays, 11 AM - 7 PM, willing to travel"
+  },
+  {
+    "name": "Dr. Ishani Nair",
+    "speciality": "Ophthalmology",
+    "location": "Neelikonampalayam",
+    "certifications": [
+      "DO"
+    ],
+    "availability": "Wednesdays and Saturdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Aryan Gupta",
+    "speciality": "Pulmonology",
+    "location": "Uppilipalayam",
+    "certifications": [],
+    "availability": "Mondays and Thursdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Kiara Iyer",
+    "speciality": "Endocrinology",
+    "location": "Kallimadai",
+    "certifications": [
+      "DM (Endocrinology)"
+    ],
+    "availability": "Tuesdays and Fridays, 8 AM - 4 PM, tele-consultation available"
+  },
+  {
+    "name": "Dr. Dev Sharma",
+    "speciality": "Gastroenterology",
+    "location": "Nanjundapuram",
+    "certifications": [
+      "DM (Gastroenterology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Eva Kumar",
+    "speciality": "Oncology",
+    "location": "Ramanuja Nagar",
+    "certifications": [
+      "MD (Radiotherapy)"
+    ],
+    "availability": "Mondays and Thursdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Jai Singh",
+    "speciality": "Nephrology",
+    "location": "Vinayagapuram",
+    "certifications": [],
+    "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Ritu Pillai",
+    "speciality": "Rheumatology",
+    "location": "Bharathi Nagar",
+    "certifications": [
+      "DM (Rheumatology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Neil Reddy",
+    "speciality": "Urology",
+    "location": "Velandipalayam",
+    "certifications": [
+      "M.Ch (Urology)"
+    ],
+    "availability": "Mondays and Thursdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Zoya Menon",
+    "speciality": "Psychiatry",
+    "location": "Seeranaickenpalayam",
+    "certifications": [],
+    "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Yuvraj Nair",
+    "speciality": "General Surgery",
+    "location": "Lawley Road",
+    "certifications": [
+      "MS (General Surgery)"
+    ],
+    "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Aisha Iyer",
+    "speciality": "General Medicine",
+    "location": "Sukrawarpet",
+    "certifications": [
+      "MD (General Medicine)"
+    ],
+    "availability": "Mondays and Thursdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Krish Gupta",
+    "speciality": "Anesthesiology",
+    "location": "Telungupalayam",
+    "certifications": [
+      "MD (Anesthesiology)"
+    ],
+    "availability": "On-call basis"
+  },
+  {
+    "name": "Dr. Meera Patel",
+    "speciality": "Radiology",
+    "location": "P.N. Pudur",
+    "certifications": [
+      "DMRD"
+    ],
+    "availability": "Tuesdays and Fridays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Arjun Sharma",
+    "speciality": "Cardiology",
+    "location": "Koundampalayam",
+    "certifications": [
+      "DM (Cardiology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Diya Singh",
+    "speciality": "Dermatology",
+    "location": "Cheran Nagar",
+    "certifications": [
+      "MD (Dermatology)"
+    ],
+    "availability": "Mondays and Thursdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Ishaan Pillai",
+    "speciality": "Orthopedics",
+    "location": "Idigarai",
+    "certifications": [],
+    "availability": "Tuesdays and Fridays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Kavya Krishnan",
+    "speciality": "Pediatrics",
+    "location": "Ashokapuram",
+    "certifications": [
+      "MD (Pediatrics)"
+    ],
+    "availability": "Wednesdays and Saturdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Mihir Kumar",
+    "speciality": "Neurology",
+    "location": "Anna Nagar",
+    "certifications": [
+      "DM (Neurology)"
+    ],
+    "availability": "Mondays and Thursdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Myra Menon",
+    "speciality": "Gynaecology",
+    "location": "KK Pudur",
+    "certifications": [
+      "MS (Obstetrics & Gynaecology)"
+    ],
+    "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Vivaan Nair",
+    "speciality": "ENT",
+    "location": "VOC Nagar",
+    "certifications": [],
+    "availability": "Wednesdays and Saturdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Saanvi Iyer",
+    "speciality": "Ophthalmology",
+    "location": "Velacheri",
+    "certifications": [
+      "MS (Ophthalmology)"
+    ],
+    "availability": "Mondays and Thursdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Reyansh Reddy",
+    "speciality": "Pulmonology",
+    "location": "Tharamani",
+    "certifications": [
+      "MD (TB & Chest Diseases)"
+    ],
+    "availability": "Tuesdays and Fridays, 9 AM - 5 PM, willing to travel"
+  },
+  {
+    "name": "Dr. Tara Gupta",
+    "speciality": "Endocrinology",
+    "location": "Adyar",
+    "certifications": [],
+    "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Ishir Shah",
+    "speciality": "Gastroenterology",
+    "location": "Guindy",
+    "certifications": [
+      "DM (Gastroenterology)"
+    ],
+    "availability": "Mondays and Thursdays, 8 AM - 4 PM, online consultation"
+  },
+  {
+    "name": "Dr. Anvi Patel",
+    "speciality": "Oncology",
+    "location": "T. Nagar",
+    "certifications": [
+      "DM (Oncology)"
+    ],
+    "availability": "Tuesdays and Fridays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Kabir Sharma",
+    "speciality": "Nephrology",
+    "location": "Nungambakkam",
+    "certifications": [
+      "DM (Nephrology)"
+    ],
+    "availability": "Wednesdays and Saturdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Riya Singh",
+    "speciality": "Rheumatology",
+    "location": "Kodambakkam",
+    "certifications": [],
+    "availability": "Mondays and Thursdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Shaurya Menon",
+    "speciality": "Urology",
+    "location": "Vadapalani",
+    "certifications": [
+      "M.Ch (Urology)"
+    ],
+    "availability": "Tuesdays and Fridays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Shanaya Nair",
+    "speciality": "Psychiatry",
+    "location": "Ashok Nagar",
+    "certifications": [
+      "MD (Psychiatry)",
+      "Diploma in Counselling"
+    ],
+    "availability": "Wednesdays and Saturdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Aarush Iyer",
+    "speciality": "General Surgery",
+    "location": "K.K. Nagar",
+    "certifications": [],
+    "availability": "Mondays and Thursdays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Aisha Reddy",
+    "speciality": "General Medicine",
+    "location": "Virugambakkam",
+    "certifications": [
+      "MD (General Medicine)"
+    ],
+    "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Vivaan Kumar",
+    "speciality": "Anesthesiology",
+    "location": "Saligramam",
+    "certifications": [
+      "MD (Anesthesiology)"
+    ],
+    "availability": "On-call basis"
+  },
+  {
+    "name": "Dr. Ananya Gupta",
+    "speciality": "Radiology",
+    "location": "Porur",
+    "certifications": [
+      "DNB (Radiodiagnosis)"
+    ],
+    "availability": "Wednesdays and Saturdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Rohan Singh",
+    "speciality": "Cardiology",
+    "location": "Mylapore",
+    "certifications": [
+      "DM (Cardiology)"
+    ],
+    "availability": "Mondays and Thursdays, 11 AM - 7 PM"
+  },
+  {
+    "name": "Dr. Siya Patel",
+    "speciality": "Dermatology",
+    "location": "Mandaveli",
+    "certifications": [],
+    "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
+  },
+  {
+    "name": "Dr. Ayaan Sharma",
+    "speciality": "Orthopedics",
+    "location": "Royapettah",
+    "certifications": [
+      "MS (Orthopedics)"
+    ],
+    "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
+  },
+  {
+    "name": "Dr. Ishita Menon",
+    "speciality": "Pediatrics",
+    "location": "Triplicane",
+    "certifications": [
+      "MD (Pediatrics)"
+    ],
+    "availability": "Mondays and Thursdays, 8 AM - 4 PM"
+  },
+  {
+    "name": "Dr. Krishna Nair",
+    "speciality": "Neurology",
+    "location": "Chepauk",
+    "certifications": [
+      "DM (Neurology)"
+    ],
+    "availability": "Tuesdays and Fridays, 11 AM - 7 PM"
+  }
+]
