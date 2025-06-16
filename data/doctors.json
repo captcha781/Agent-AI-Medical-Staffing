@@ -2,7 +2,7 @@
   {
     "name": "Dr. Aarav Kumar",
     "speciality": "Cardiology",
-    "location": "Chennai",
+    "location": "Chennai, Chennai",
     "certifications": [
       "DM (Cardiology)",
       "Fellowship in Interventional Cardiology"
@@ -12,7 +12,7 @@
   {
     "name": "Dr. Aanya Sharma",
     "speciality": "Dermatology",
-    "location": "Coimbatore",
+    "location": "Coimbatore, Coimbatore",
     "certifications": [
       "MD (Dermatology, Venereology & Leprosy)"
     ],
@@ -21,7 +21,7 @@
   {
     "name": "Dr. Advik Patel",
     "speciality": "Orthopedics",
-    "location": "Madurai",
+    "location": "Madurai, Madurai",
     "certifications": [
       "MS (Orthopedics)",
       "Fellowship in Joint Replacement Surgery"
@@ -31,7 +31,7 @@
   {
     "name": "Dr. Anika Reddy",
     "speciality": "Pediatrics",
-    "location": "Tiruchirappalli",
+    "location": "Tiruchirappalli, Tiruchirappalli",
     "certifications": [
       "MD (Pediatrics)",
       "DCH (Diploma in Child Health)"
@@ -41,7 +41,7 @@
   {
     "name": "Dr. Arjun Singh",
     "speciality": "Neurology",
-    "location": "Salem",
+    "location": "Salem, Salem",
     "certifications": [
       "DM (Neurology)"
     ],
@@ -50,7 +50,7 @@
   {
     "name": "Dr. Diya Gupta",
     "speciality": "Gynaecology",
-    "location": "Tirunelveli",
+    "location": "Tirunelveli, Tirunelveli",
     "certifications": [
       "MS (Obstetrics & Gynaecology)",
       "DGO (Diploma in Gynaecology and Obstetrics)"
@@ -60,7 +60,7 @@
   {
     "name": "Dr. Ishaan Nair",
     "speciality": "ENT",
-    "location": "Vellore",
+    "location": "Vellore, Vellore",
     "certifications": [
       "MS (ENT)"
     ],
@@ -69,7 +69,7 @@
   {
     "name": "Dr. Kavya Menon",
     "speciality": "Ophthalmology",
-    "location": "Erode",
+    "location": "Erode, Erode",
     "certifications": [
       "MS (Ophthalmology)",
       "DO (Diploma in Ophthalmology)"
@@ -79,7 +79,7 @@
   {
     "name": "Dr. Mihir Joshi",
     "speciality": "Pulmonology",
-    "location": "Thoothukudi",
+    "location": "Thoothukudi, Thoothukudi",
     "certifications": [
       "DM (Pulmonary Medicine)"
     ],
@@ -88,7 +88,7 @@
   {
     "name": "Dr. Myra Krishnan",
     "speciality": "Endocrinology",
-    "location": "Nagercoil",
+    "location": "Nagercoil, Kanyakumari",
     "certifications": [
       "DM (Endocrinology)"
     ],
@@ -97,7 +97,7 @@
   {
     "name": "Dr. Vivaan Iyer",
     "speciality": "Gastroenterology",
-    "location": "Thanjavur",
+    "location": "Thanjavur, Thanjavur",
     "certifications": [
       "DM (Gastroenterology)"
     ],
@@ -106,7 +106,7 @@
   {
     "name": "Dr. Saanvi Rao",
     "speciality": "Oncology",
-    "location": "Dindigul",
+    "location": "Dindigul, Dindigul",
     "certifications": [
       "DM (Oncology)"
     ],
@@ -115,7 +115,7 @@
   {
     "name": "Dr. Reyansh Pillai",
     "speciality": "Nephrology",
-    "location": "Ranipet",
+    "location": "Ranipet, Ranipet",
     "certifications": [
       "DM (Nephrology)"
     ],
@@ -124,7 +124,7 @@
   {
     "name": "Dr. Tara Subramanian",
     "speciality": "Rheumatology",
-    "location": "Sivakasi",
+    "location": "Sivakasi, Virudhunagar",
     "certifications": [
       "DM (Rheumatology)"
     ],
@@ -133,7 +133,7 @@
   {
     "name": "Dr. Ishir Verma",
     "speciality": "Urology",
-    "location": "Karur",
+    "location": "Karur, Karur",
     "certifications": [
       "M.Ch (Urology)"
     ],
@@ -142,7 +142,7 @@
   {
     "name": "Dr. Anvi Desai",
     "speciality": "Psychiatry",
-    "location": "Udhagamandalam",
+    "location": "Udhagamandalam, Nilgiris",
     "certifications": [
       "MD (Psychiatry)",
       "DPM (Diploma in Psychological Medicine)"
@@ -152,7 +152,7 @@
   {
     "name": "Dr. Kabir Shah",
     "speciality": "General Surgery",
-    "location": "Hosur",
+    "location": "Hosur, Krishnagiri",
     "certifications": [
       "MS (General Surgery)"
     ],
@@ -161,7 +161,7 @@
   {
     "name": "Dr. Riya Choudhary",
     "speciality": "General Medicine",
-    "location": "Pudukkottai",
+    "location": "Pudukkottai, Pudukkottai",
     "certifications": [
       "MD (General Medicine)"
     ],
@@ -170,7 +170,7 @@
   {
     "name": "Dr. Shaurya Pillai",
     "speciality": "Anesthesiology",
-    "location": "Kanchipuram",
+    "location": "Kanchipuram, Kanchipuram",
     "certifications": [
       "MD (Anesthesiology)",
       "DA (Diploma in Anesthesiology)"
@@ -180,7 +180,7 @@
   {
     "name": "Dr. Shanaya Murthy",
     "speciality": "Radiology",
-    "location": "Tiruvannamalai",
+    "location": "Tiruvannamalai, Tiruvannamalai",
     "certifications": [
       "MD (Radiodiagnosis)",
       "DMRD (Diploma in Medical Radio-Diagnosis)"
@@ -190,7 +190,7 @@
   {
     "name": "Dr. Aarush Reddy",
     "speciality": "Cardiology",
-    "location": "Kumbakonam",
+    "location": "Kumbakonam, Thanjavur",
     "certifications": [
       "DM (Cardiology)"
     ],
@@ -199,14 +199,14 @@
   {
     "name": "Dr. Aisha Begum",
     "speciality": "Dermatology",
-    "location": "Rajapalayam",
+    "location": "Rajapalayam, Virudhunagar",
     "certifications": [],
     "availability": "Wednesdays and Saturdays, 9 AM - 5 PM"
   },
   {
     "name": "Dr. Vivaan Menon",
     "speciality": "Orthopedics",
-    "location": "Neyveli",
+    "location": "Neyveli, Cuddalore",
     "certifications": [
       "MS (Orthopedics)"
     ],
@@ -215,7 +215,7 @@
   {
     "name": "Dr. Ananya Sharma",
     "speciality": "Pediatrics",
-    "location": "Ambur",
+    "location": "Ambur, Tirupattur",
     "certifications": [
       "MD (Pediatrics)"
     ],
@@ -224,14 +224,14 @@
   {
     "name": "Dr. Rohan Kumar",
     "speciality": "Neurology",
-    "location": "Karaikudi",
+    "location": "Karaikudi, Sivaganga",
     "certifications": [],
     "availability": "Wednesdays and Saturdays, 11 AM - 7 PM"
   },
   {
     "name": "Dr. Siya Singh",
     "speciality": "Gynaecology",
-    "location": "Nagapattinam",
+    "location": "Nagapattinam, Nagapattinam",
     "certifications": [
       "MS (Obstetrics & Gynaecology)"
     ],
@@ -240,14 +240,14 @@
   {
     "name": "Dr. Ayaan Khan",
     "speciality": "ENT",
-    "location": "Cuddalore",
+    "location": "Cuddalore, Cuddalore",
     "certifications": [],
     "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
   },
   {
     "name": "Dr. Ishita Das",
     "speciality": "Ophthalmology",
-    "location": "Theni",
+    "location": "Theni, Theni",
     "certifications": [
       "MS (Ophthalmology)"
     ],
@@ -256,7 +256,7 @@
   {
     "name": "Dr. Krishna Sharma",
     "speciality": "Pulmonology",
-    "location": "Virudhunagar",
+    "location": "Virudhunagar, Virudhunagar",
     "certifications": [
       "MD (Respiratory Medicine)"
     ],
@@ -265,14 +265,14 @@
   {
     "name": "Dr. Prisha Patel",
     "speciality": "Endocrinology",
-    "location": "Krishnagiri",
+    "location": "Krishnagiri, Krishnagiri",
     "certifications": [],
     "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
   },
   {
     "name": "Dr. Samar Verma",
     "speciality": "Gastroenterology",
-    "location": "Ramanathapuram",
+    "location": "Ramanathapuram, Ramanathapuram",
     "certifications": [
       "DM (Gastroenterology)"
     ],
@@ -281,7 +281,7 @@
   {
     "name": "Dr. Navya Reddy",
     "speciality": "Oncology",
-    "location": "Tiruppur",
+    "location": "Tiruppur, Tiruppur",
     "certifications": [
       "DM (Medical Oncology)"
     ],
@@ -290,21 +290,21 @@
   {
     "name": "Dr. Armaan Ali",
     "speciality": "Nephrology",
-    "location": "Pollachi",
+    "location": "Pollachi, Coimbatore",
     "certifications": [],
     "availability": "Tuesdays and Fridays, 11 AM - 7 PM"
   },
   {
     "name": "Dr. Sara Kumar",
     "speciality": "Rheumatology",
-    "location": "Mettupalayam",
+    "location": "Mettupalayam, Coimbatore",
     "certifications": [],
     "availability": "Wednesdays and Saturdays, 9 AM - 5 PM"
   },
   {
     "name": "Dr. Veer Singh",
     "speciality": "Urology",
-    "location": "Aruppukkottai",
+    "location": "Aruppukkottai, Virudhunagar",
     "certifications": [
       "M.Ch (Urology)"
     ],
@@ -313,7 +313,7 @@
   {
     "name": "Dr. Zara Khan",
     "speciality": "Psychiatry",
-    "location": "Sattur",
+    "location": "Sattur, Virudhunagar",
     "certifications": [
       "MD (Psychiatry)"
     ],
@@ -322,7 +322,7 @@
   {
     "name": "Dr. Aditya Prasad",
     "speciality": "General Surgery",
-    "location": "Paramakudi",
+    "location": "Paramakudi, Ramanathapuram",
     "certifications": [
       "MS (General Surgery)"
     ],
@@ -331,14 +331,14 @@
   {
     "name": "Dr. Naina Gupta",
     "speciality": "General Medicine",
-    "location": "Sivaganga",
+    "location": "Sivaganga, Sivaganga",
     "certifications": [],
     "availability": "Mondays and Thursdays, 9 AM - 5 PM"
   },
   {
     "name": "Dr. Yuvan Raja",
     "speciality": "Anesthesiology",
-    "location": "Manapparai",
+    "location": "Manapparai, Tiruchirappalli",
     "certifications": [
       "MD (Anesthesiology)"
     ],
@@ -347,7 +347,7 @@
   {
     "name": "Dr. Myra Nair",
     "speciality": "Radiology",
-    "location": "Tindivanam",
+    "location": "Tindivanam, Villupuram",
     "certifications": [
       "MD (Radiodiagnosis)"
     ],
@@ -356,7 +356,7 @@
   {
     "name": "Dr. Siddharth Menon",
     "speciality": "Cardiology",
-    "location": "Villupuram",
+    "location": "Villupuram, Villupuram",
     "certifications": [
       "DM (Cardiology)",
       "Fellowship in Echocardiography"
@@ -366,7 +366,7 @@
   {
     "name": "Dr. Ananya Iyer",
     "speciality": "Dermatology",
-    "location": "Chidambaram",
+    "location": "Chidambaram, Cuddalore",
     "certifications": [
       "MD (Dermatology)"
     ],
@@ -375,14 +375,14 @@
   {
     "name": "Dr. Vikram Singh",
     "speciality": "Orthopedics",
-    "location": "Mayiladuthurai",
+    "location": "Mayiladuthurai, Mayiladuthurai",
     "certifications": [],
     "availability": "Tuesdays and Fridays, 9 AM - 5 PM, willing to travel"
   },
   {
     "name": "Dr. Ishani Patel",
     "speciality": "Pediatrics",
-    "location": "Thiruvarur",
+    "location": "Thiruvarur, Thiruvarur",
     "certifications": [
       "DNB (Pediatrics)"
     ],
@@ -391,7 +391,7 @@
   {
     "name": "Dr. Aryan Sharma",
     "speciality": "Neurology",
-    "location": "Palani",
+    "location": "Palani, Dindigul",
     "certifications": [
       "DM (Neurology)"
     ],
@@ -400,14 +400,14 @@
   {
     "name": "Dr. Kiara Reddy",
     "speciality": "Gynaecology",
-    "location": "Kovilpatti",
+    "location": "Kovilpatti, Thoothukudi",
     "certifications": [],
     "availability": "Tuesdays and Fridays, 11 AM - 7 PM"
   },
   {
     "name": "Dr. Dev Kumar",
     "speciality": "ENT",
-    "location": "Tenkasi",
+    "location": "Tenkasi, Tenkasi",
     "certifications": [
       "MS (ENT)",
       "DLO (Diploma in Otorhinolaryngology)"
@@ -417,14 +417,14 @@
   {
     "name": "Dr. Eva Thomas",
     "speciality": "Ophthalmology",
-    "location": "Sankarankovil",
+    "location": "Sankarankovil, Tenkasi",
     "certifications": [],
     "availability": "Mondays and Thursdays, 10 AM - 6 PM"
   },
   {
     "name": "Dr. Jai Mehta",
     "speciality": "Pulmonology",
-    "location": "Edappadi",
+    "location": "Edappadi, Salem",
     "certifications": [
       "DM (Pulmonary Medicine)"
     ],
@@ -433,14 +433,14 @@
   {
     "name": "Dr. Ritu Verma",
     "speciality": "Endocrinology",
-    "location": "Dharapuram",
+    "location": "Dharapuram, Tiruppur",
     "certifications": [],
     "availability": "Wednesdays and Saturdays, 11 AM - 7 PM, teleconsultation available"
   },
   {
     "name": "Dr. Neil Shah",
     "speciality": "Gastroenterology",
-    "location": "Attur",
+    "location": "Attur, Salem",
     "certifications": [
       "DNB (Gastroenterology)"
     ],
@@ -449,7 +449,7 @@
   {
     "name": "Dr. Zoya Agarwal",
     "speciality": "Oncology",
-    "location": "Mettur",
+    "location": "Mettur, Salem",
     "certifications": [
       "DM (Oncology)"
     ],
@@ -458,21 +458,21 @@
   {
     "name": "Dr. Yuvraj Singh",
     "speciality": "Nephrology",
-    "location": "Gobichettipalayam",
+    "location": "Gobichettipalayam, Erode",
     "certifications": [],
     "availability": "Wednesdays and Saturdays, 8 AM - 4 PM"
   },
   {
     "name": "Dr. Aisha Khan",
     "speciality": "Rheumatology",
-    "location": "Udumalaipettai",
+    "location": "Udumalaipettai, Tiruppur",
     "certifications": [],
     "availability": "Mondays and Thursdays, 11 AM - 7 PM"
   },
   {
     "name": "Dr. Krish Patel",
     "speciality": "Urology",
-    "location": "Sathyamangalam",
+    "location": "Sathyamangalam, Erode",
     "certifications": [
       "M.Ch (Urology)"
     ],
@@ -481,14 +481,14 @@
   {
     "name": "Dr. Meera Gupta",
     "speciality": "Psychiatry",
-    "location": "Namakkal",
+    "location": "Namakkal, Namakkal",
     "certifications": [],
     "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
   },
   {
     "name": "Dr. Arjun Reddy",
     "speciality": "General Surgery",
-    "location": "Tiruchengode",
+    "location": "Tiruchengode, Namakkal",
     "certifications": [
       "MS (General Surgery)"
     ],
@@ -497,7 +497,7 @@
   {
     "name": "Dr. Diya Sharma",
     "speciality": "General Medicine",
-    "location": "Rasipuram",
+    "location": "Rasipuram, Namakkal",
     "certifications": [
       "MD (General Medicine)"
     ],
@@ -506,14 +506,14 @@
   {
     "name": "Dr. Ishaan Kumar",
     "speciality": "Anesthesiology",
-    "location": "Vaniyambadi",
+    "location": "Vaniyambadi, Tirupattur",
     "certifications": [],
     "availability": "On-call, willing to travel"
   },
   {
     "name": "Dr. Kavya Singh",
     "speciality": "Radiology",
-    "location": "Gudiyatham",
+    "location": "Gudiyatham, Vellore",
     "certifications": [
       "DNB (Radiodiagnosis)"
     ],
@@ -522,7 +522,7 @@
   {
     "name": "Dr. Mihir Nair",
     "speciality": "Cardiology",
-    "location": "Avadi",
+    "location": "Avadi, Chennai",
     "certifications": [
       "DM (Cardiology)"
     ],
@@ -531,14 +531,14 @@
   {
     "name": "Dr. Myra Patel",
     "speciality": "Dermatology",
-    "location": "Tambaram",
+    "location": "Tambaram, Chennai",
     "certifications": [],
     "availability": "Tuesdays and Fridays, 8 AM - 4 PM"
   },
   {
     "name": "Dr. Vivaan Shah",
     "speciality": "Orthopedics",
-    "location": "Pallavaram",
+    "location": "Pallavaram, Chennai",
     "certifications": [
       "MS (Orthopedics)"
     ],
@@ -547,7 +547,7 @@
   {
     "name": "Dr. Saanvi Iyer",
     "speciality": "Pediatrics",
-    "location": "Alandur",
+    "location": "Alandur, Chennai",
     "certifications": [
       "MD (Pediatrics)"
     ],
@@ -556,7 +556,7 @@
   {
     "name": "Dr. Reyansh Gupta",
     "speciality": "Neurology",
-    "location": "Tiruvottiyur",
+    "location": "Tiruvottiyur, Chennai",
     "certifications": [
       "DM (Neurology)"
     ],
@@ -565,7 +565,7 @@
   {
     "name": "Dr. Tara Menon",
     "speciality": "Gynaecology",
-    "location": "Ambattur",
+    "location": "Ambattur, Chennai",
     "certifications": [
       "DGO",
       "MS (Obstetrics & Gynaecology)"
@@ -575,7 +575,7 @@
   {
     "name": "Dr. Ishir Kumar",
     "speciality": "ENT",
-    "location": "Madhavaram",
+    "location": "Madhavaram, Chennai",
     "certifications": [
       "MS (ENT)"
     ],
@@ -584,21 +584,21 @@
   {
     "name": "Dr. Anvi Sharma",
     "speciality": "Ophthalmology",
-    "location": "Kattivakkam",
+    "location": "Kattivakkam, Chennai",
     "certifications": [],
     "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
   },
   {
     "name": "Dr. Kabir Singh",
     "speciality": "Pulmonology",
-    "location": "Ennore",
+    "location": "Ennore, Chennai",
     "certifications": [],
     "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
   },
   {
     "name": "Dr. Riya Pillai",
     "speciality": "Endocrinology",
-    "location": "Thirunindravur",
+    "location": "Thirunindravur, Tiruvallur",
     "certifications": [
       "DM (Endocrinology)"
     ],
@@ -607,7 +607,7 @@
   {
     "name": "Dr. Shaurya Desai",
     "speciality": "Gastroenterology",
-    "location": "Poonamallee",
+    "location": "Poonamallee, Chennai",
     "certifications": [
       "DM (Gastroenterology)"
     ],
@@ -616,7 +616,7 @@
   {
     "name": "Dr. Shanaya Krishnan",
     "speciality": "Oncology",
-    "location": "Anakaputhur",
+    "location": "Anakaputhur, Chennai",
     "certifications": [
       "MD (Radiation Oncology)"
     ],
@@ -625,7 +625,7 @@
   {
     "name": "Dr. Aarush Verma",
     "speciality": "Nephrology",
-    "location": "Pammal",
+    "location": "Pammal, Chennai",
     "certifications": [
       "DM (Nephrology)"
     ],
@@ -634,14 +634,14 @@
   {
     "name": "Dr. Aisha Rao",
     "speciality": "Rheumatology",
-    "location": "Thirumazhisai",
+    "location": "Thirumazhisai, Chennai",
     "certifications": [],
     "availability": "Tuesdays and Fridays, 8 AM - 4 PM"
   },
   {
     "name": "Dr. Vivaan Nair",
     "speciality": "Urology",
-    "location": "Manali",
+    "location": "Manali, Chennai",
     "certifications": [
       "M.Ch (Urology)"
     ],
@@ -650,7 +650,7 @@
   {
     "name": "Dr. Ananya Singh",
     "speciality": "Psychiatry",
-    "location": "Minjur",
+    "location": "Minjur, Chennai",
     "certifications": [
       "MD (Psychiatry)"
     ],
@@ -659,7 +659,7 @@
   {
     "name": "Dr. Rohan Patel",
     "speciality": "General Surgery",
-    "location": "Sholavandan",
+    "location": "Sholavandan, Madurai",
     "certifications": [
       "MS (General Surgery)",
       "Fellowship in Minimal Access Surgery"
@@ -669,7 +669,7 @@
   {
     "name": "Dr. Siya Reddy",
     "speciality": "General Medicine",
-    "location": "Thirumangalam",
+    "location": "Thirumangalam, Madurai",
     "certifications": [
       "MD (General Medicine)"
     ],
@@ -678,14 +678,14 @@
   {
     "name": "Dr. Ayaan Sharma",
     "speciality": "Anesthesiology",
-    "location": "Usilampatti",
+    "location": "Usilampatti, Madurai",
     "certifications": [],
     "availability": "On-call, willing to travel"
   },
   {
     "name": "Dr. Ishita Menon",
     "speciality": "Radiology",
-    "location": "Peraiyur",
+    "location": "Peraiyur, Madurai",
     "certifications": [
       "MD (Radiodiagnosis)"
     ],
@@ -694,7 +694,7 @@
   {
     "name": "Dr. Krishna Kumar",
     "speciality": "Cardiology",
-    "location": "Melur",
+    "location": "Melur, Madurai",
     "certifications": [
       "DNB (Cardiology)"
     ],
@@ -703,7 +703,7 @@
   {
     "name": "Dr. Prisha Iyer",
     "speciality": "Dermatology",
-    "location": "Vadipatti",
+    "location": "Vadipatti, Madurai",
     "certifications": [
       "DDVL (Diploma in Dermatology, Venereology, and Leprosy)"
     ],
@@ -712,14 +712,14 @@
   {
     "name": "Dr. Samar Singh",
     "speciality": "Orthopedics",
-    "location": "Thirupuvanam",
+    "location": "Thirupuvanam, Sivaganga",
     "certifications": [],
     "availability": "Mondays and Thursdays, 8 AM - 4 PM"
   },
   {
     "name": "Dr. Navya Gupta",
     "speciality": "Pediatrics",
-    "location": "Alanganallur",
+    "location": "Alanganallur, Madurai",
     "certifications": [
       "MD (Pediatrics)"
     ],
@@ -728,7 +728,7 @@
   {
     "name": "Dr. Armaan Joshi",
     "speciality": "Neurology",
-    "location": "Tirupparankundram",
+    "location": "Tirupparankundram, Madurai",
     "certifications": [
       "DM (Neurology)"
     ],
@@ -737,7 +737,7 @@
   {
     "name": "Dr. Sara Khan",
     "speciality": "Gynaecology",
-    "location": "Anaimalai",
+    "location": "Anaimalai, Coimbatore",
     "certifications": [
       "MS (Obstetrics & Gynaecology)"
     ],
@@ -746,7 +746,7 @@
   {
     "name": "Dr. Veer Kumar",
     "speciality": "ENT",
-    "location": "Valparai",
+    "location": "Valparai, Coimbatore",
     "certifications": [
       "DLO"
     ],
@@ -755,7 +755,7 @@
   {
     "name": "Dr. Zara Sharma",
     "speciality": "Ophthalmology",
-    "location": "Sulur",
+    "location": "Sulur, Coimbatore",
     "certifications": [
       "MS (Ophthalmology)"
     ],
@@ -764,7 +764,7 @@
   {
     "name": "Dr. Aditya Menon",
     "speciality": "Pulmonology",
-    "location": "Karamadai",
+    "location": "Karamadai, Coimbatore",
     "certifications": [
       "MD (Tuberculosis & Respiratory Diseases)"
     ],
@@ -773,14 +773,14 @@
   {
     "name": "Dr. Naina Pillai",
     "speciality": "Endocrinology",
-    "location": "Perur",
+    "location": "Perur, Coimbatore",
     "certifications": [],
     "availability": "Tuesdays and Fridays, 10 AM - 6 PM, teleconsultation"
   },
   {
     "name": "Dr. Yuvan Reddy",
     "speciality": "Gastroenterology",
-    "location": "Thondamuthur",
+    "location": "Thondamuthur, Coimbatore",
     "certifications": [
       "DM (Gastroenterology)"
     ],
@@ -789,14 +789,14 @@
   {
     "name": "Dr. Myra Khan",
     "speciality": "Oncology",
-    "location": "Annur",
+    "location": "Annur, Coimbatore",
     "certifications": [],
     "availability": "Mondays and Thursdays, 11 AM - 7 PM"
   },
   {
     "name": "Dr. Siddharth Singh",
     "speciality": "Nephrology",
-    "location": "Kinathukadavu",
+    "location": "Kinathukadavu, Coimbatore",
     "certifications": [
       "DM (Nephrology)"
     ],
@@ -805,14 +805,14 @@
   {
     "name": "Dr. Ananya Nair",
     "speciality": "Rheumatology",
-    "location": "Madukkarai",
+    "location": "Madukkarai, Coimbatore",
     "certifications": [],
     "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
   },
   {
     "name": "Dr. Vikram Joshi",
     "speciality": "Urology",
-    "location": "Gudalur (Coimbatore)",
+    "location": "Gudalur (Coimbatore), Coimbatore",
     "certifications": [
       "M.Ch (Urology)"
     ],
@@ -821,7 +821,7 @@
   {
     "name": "Dr. Ishani Verma",
     "speciality": "Psychiatry",
-    "location": "Kavundampalayam",
+    "location": "Kavundampalayam, Coimbatore",
     "certifications": [
       "DPM"
     ],
@@ -830,7 +830,7 @@
   {
     "name": "Dr. Aryan Kumar",
     "speciality": "General Surgery",
-    "location": "Veerakeralam",
+    "location": "Veerakeralam, Coimbatore",
     "certifications": [
       "MS (General Surgery)"
     ],
@@ -839,14 +839,14 @@
   {
     "name": "Dr. Kiara Sharma",
     "speciality": "General Medicine",
-    "location": "Periyanaickenpalayam",
+    "location": "Periyanaickenpalayam, Coimbatore",
     "certifications": [],
     "availability": "Mondays and Thursdays, 10 AM - 6 PM"
   },
   {
     "name": "Dr. Dev Patel",
     "speciality": "Anesthesiology",
-    "location": "Narasimhanaickenpalayam",
+    "location": "Narasimhanaickenpalayam, Coimbatore",
     "certifications": [
       "MD (Anesthesiology)"
     ],
@@ -855,14 +855,14 @@
   {
     "name": "Dr. Eva Singh",
     "speciality": "Radiology",
-    "location": "Thudiyalur",
+    "location": "Thudiyalur, Coimbatore",
     "certifications": [],
     "availability": "Tuesdays and Fridays, 8 AM - 4 PM"
   },
   {
     "name": "Dr. Jai Menon",
     "speciality": "Cardiology",
-    "location": "Saravanampatti",
+    "location": "Saravanampatti, Coimbatore",
     "certifications": [
       "DM (Cardiology)"
     ],
@@ -871,7 +871,7 @@
   {
     "name": "Dr. Ritu Reddy",
     "speciality": "Dermatology",
-    "location": "Vadavalli",
+    "location": "Vadavalli, Coimbatore",
     "certifications": [
       "MD (Dermatology)"
     ],
@@ -880,7 +880,7 @@
   {
     "name": "Dr. Neil Iyer",
     "speciality": "Orthopedics",
-    "location": "Ettimadai",
+    "location": "Ettimadai, Coimbatore",
     "certifications": [
       "MS (Orthopedics)",
       "Fellowship in Arthroscopy"
@@ -890,7 +890,7 @@
   {
     "name": "Dr. Zoya Khan",
     "speciality": "Pediatrics",
-    "location": "Othakalmandapam",
+    "location": "Othakalmandapam, Coimbatore",
     "certifications": [
       "DCH"
     ],
@@ -899,14 +899,14 @@
   {
     "name": "Dr. Yuvraj Nair",
     "speciality": "Neurology",
-    "location": "Malumichampatti",
+    "location": "Malumichampatti, Coimbatore",
     "certifications": [],
     "availability": "Mondays and Thursdays, 11 AM - 7 PM, willing to travel"
   },
   {
     "name": "Dr. Aisha Patel",
     "speciality": "Gynaecology",
-    "location": "Chettipalayam",
+    "location": "Chettipalayam, Coimbatore",
     "certifications": [
       "DGO",
       "MS (Obstetrics & Gynaecology)"
@@ -916,7 +916,7 @@
   {
     "name": "Dr. Krish Sharma",
     "speciality": "ENT",
-    "location": "Irugur",
+    "location": "Irugur, Coimbatore",
     "certifications": [
       "MS (ENT)"
     ],
@@ -925,14 +925,14 @@
   {
     "name": "Dr. Meera Singh",
     "speciality": "Ophthalmology",
-    "location": "Pallapalayam",
+    "location": "Pallapalayam, Coimbatore",
     "certifications": [],
     "availability": "Mondays and Thursdays, 8 AM - 4 PM"
   },
   {
     "name": "Dr. Arjun Kumar",
     "speciality": "Pulmonology",
-    "location": "Kannampalayam",
+    "location": "Kannampalayam, Coimbatore",
     "certifications": [
       "DNB (Respiratory Diseases)"
     ],
@@ -941,7 +941,7 @@
   {
     "name": "Dr. Diya Menon",
     "speciality": "Endocrinology",
-    "location": "Peelamedu",
+    "location": "Peelamedu, Coimbatore",
     "certifications": [
       "DM (Endocrinology)"
     ],
@@ -950,14 +950,14 @@
   {
     "name": "Dr. Ishaan Reddy",
     "speciality": "Gastroenterology",
-    "location": "Ganapathy",
+    "location": "Ganapathy, Coimbatore",
     "certifications": [],
     "availability": "Mondays and Thursdays, 10 AM - 6 PM"
   },
   {
     "name": "Dr. Kavya Iyer",
     "speciality": "Oncology",
-    "location": "Singanallur",
+    "location": "Singanallur, Coimbatore",
     "certifications": [
       "DM (Medical Oncology)"
     ],
@@ -966,7 +966,7 @@
   {
     "name": "Dr. Mihir Gupta",
     "speciality": "Nephrology",
-    "location": "Ramanathapuram (Coimbatore)",
+    "location": "Ramanathapuram (Coimbatore), Coimbatore",
     "certifications": [
       "DM (Nephrology)"
     ],
@@ -975,14 +975,14 @@
   {
     "name": "Dr. Myra Verma",
     "speciality": "Rheumatology",
-    "location": "Ukkadam",
+    "location": "Ukkadam, Coimbatore",
     "certifications": [],
     "availability": "Mondays and Thursdays, 9 AM - 5 PM"
   },
   {
     "name": "Dr. Vivaan Pillai",
     "speciality": "Urology",
-    "location": "Town Hall",
+    "location": "Town Hall, Coimbatore",
     "certifications": [
       "M.Ch (Urology)"
     ],
@@ -991,7 +991,7 @@
   {
     "name": "Dr. Saanvi Shah",
     "speciality": "Psychiatry",
-    "location": "R.S. Puram",
+    "location": "R.S. Puram, Coimbatore",
     "certifications": [
       "MD (Psychiatry)"
     ],
@@ -1000,7 +1000,7 @@
   {
     "name": "Dr. Reyansh Krishnan",
     "speciality": "General Surgery",
-    "location": "Saibaba Colony",
+    "location": "Saibaba Colony, Coimbatore",
     "certifications": [
       "MS (General Surgery)"
     ],
@@ -1009,14 +1009,14 @@
   {
     "name": "Dr. Tara Sharma",
     "speciality": "General Medicine",
-    "location": "Gandhipuram",
+    "location": "Gandhipuram, Coimbatore",
     "certifications": [],
     "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
   },
   {
     "name": "Dr. Ishir Singh",
     "speciality": "Anesthesiology",
-    "location": "Sivananda Colony",
+    "location": "Sivananda Colony, Coimbatore",
     "certifications": [
       "DA"
     ],
@@ -1025,7 +1025,7 @@
   {
     "name": "Dr. Anvi Nair",
     "speciality": "Radiology",
-    "location": "Tatabad",
+    "location": "Tatabad, Coimbatore",
     "certifications": [
       "MD (Radiodiagnosis)"
     ],
@@ -1034,7 +1034,7 @@
   {
     "name": "Dr. Kabir Menon",
     "speciality": "Cardiology",
-    "location": "Lal Bahadur Nagar",
+    "location": "Lal Bahadur Nagar, Coimbatore",
     "certifications": [
       "DM (Cardiology)",
       "FACC (Fellow of the American College of Cardiology)"
@@ -1044,7 +1044,7 @@
   {
     "name": "Dr. Riya Iyer",
     "speciality": "Dermatology",
-    "location": "Gopalapuram",
+    "location": "Gopalapuram, Coimbatore",
     "certifications": [
       "MD (Dermatology)",
       "Fellowship in Cosmetic Dermatology"
@@ -1054,7 +1054,7 @@
   {
     "name": "Dr. Shaurya Reddy",
     "speciality": "Orthopedics",
-    "location": "Race Course",
+    "location": "Race Course, Coimbatore",
     "certifications": [
       "MS (Orthopedics)"
     ],
@@ -1063,14 +1063,14 @@
   {
     "name": "Dr. Shanaya Kumar",
     "speciality": "Pediatrics",
-    "location": "Puliakulam",
+    "location": "Puliakulam, Coimbatore",
     "certifications": [],
     "availability": "Mondays and Thursdays, 10 AM - 6 PM"
   },
   {
     "name": "Dr. Aarush Singh",
     "speciality": "Neurology",
-    "location": "Sowripalayam",
+    "location": "Sowripalayam, Coimbatore",
     "certifications": [
       "DM (Neurology)"
     ],
@@ -1079,7 +1079,7 @@
   {
     "name": "Dr. Aisha Gupta",
     "speciality": "Gynaecology",
-    "location": "Nehru Nagar",
+    "location": "Nehru Nagar, Coimbatore",
     "certifications": [
       "DGO"
     ],
@@ -1088,7 +1088,7 @@
   {
     "name": "Dr. Vivaan Sharma",
     "speciality": "ENT",
-    "location": "Kalapatti",
+    "location": "Kalapatti, Coimbatore",
     "certifications": [
       "MS (ENT)"
     ],
@@ -1097,14 +1097,14 @@
   {
     "name": "Dr. Ananya Menon",
     "speciality": "Ophthalmology",
-    "location": "Vilankurichi",
+    "location": "Vilankurichi, Coimbatore",
     "certifications": [],
     "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
   },
   {
     "name": "Dr. Rohan Pillai",
     "speciality": "Pulmonology",
-    "location": "Cheranmanagar",
+    "location": "Cheranmanagar, Coimbatore",
     "certifications": [
       "MD (Respiratory Medicine)"
     ],
@@ -1113,7 +1113,7 @@
   {
     "name": "Dr. Siya Nair",
     "speciality": "Endocrinology",
-    "location": "Thiruvalluvar Nagar",
+    "location": "Thiruvalluvar Nagar, Coimbatore",
     "certifications": [
       "DM (Endocrinology)"
     ],
@@ -1122,7 +1122,7 @@
   {
     "name": "Dr. Ayaan Iyer",
     "speciality": "Gastroenterology",
-    "location": "Hope College",
+    "location": "Hope College, Coimbatore",
     "certifications": [
       "DNB (Gastroenterology)"
     ],
@@ -1131,14 +1131,14 @@
   {
     "name": "Dr. Ishita Reddy",
     "speciality": "Oncology",
-    "location": "Chinnavedampatti",
+    "location": "Chinnavedampatti, Coimbatore",
     "certifications": [],
     "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
   },
   {
     "name": "Dr. Krishna Singh",
     "speciality": "Nephrology",
-    "location": "Krishnarayapuram",
+    "location": "Krishnarayapuram, Coimbatore",
     "certifications": [
       "DM (Nephrology)"
     ],
@@ -1147,7 +1147,7 @@
   {
     "name": "Dr. Prisha Verma",
     "speciality": "Rheumatology",
-    "location": "Ganapathy Pudur",
+    "location": "Ganapathy Pudur, Coimbatore",
     "certifications": [
       "DM (Rheumatology)"
     ],
@@ -1156,14 +1156,14 @@
   {
     "name": "Dr. Samar Kumar",
     "speciality": "Urology",
-    "location": "Athipalayam",
+    "location": "Athipalayam, Coimbatore",
     "certifications": [],
     "availability": "Wednesdays and Saturdays, 9 AM - 5 PM"
   },
   {
     "name": "Dr. Navya Patel",
     "speciality": "Psychiatry",
-    "location": "Kovaipudur",
+    "location": "Kovaipudur, Coimbatore",
     "certifications": [
       "MD (Psychiatry)"
     ],
@@ -1172,7 +1172,7 @@
   {
     "name": "Dr. Armaan Gupta",
     "speciality": "General Surgery",
-    "location": "Kuniyamuthur",
+    "location": "Kuniyamuthur, Coimbatore",
     "certifications": [
       "MS (General Surgery)"
     ],
@@ -1181,7 +1181,7 @@
   {
     "name": "Dr. Sara Singh",
     "speciality": "General Medicine",
-    "location": "Sugunapuram",
+    "location": "Sugunapuram, Coimbatore",
     "certifications": [
       "DNB (General Medicine)"
     ],
@@ -1190,7 +1190,7 @@
   {
     "name": "Dr. Veer Menon",
     "speciality": "Anesthesiology",
-    "location": "Eachanari",
+    "location": "Eachanari, Coimbatore",
     "certifications": [
       "MD (Anesthesiology)"
     ],
@@ -1199,14 +1199,14 @@
   {
     "name": "Dr. Zara Nair",
     "speciality": "Radiology",
-    "location": "Podanur",
+    "location": "Podanur, Coimbatore",
     "certifications": [],
     "availability": "Mondays and Thursdays, 9 AM - 5 PM"
   },
   {
     "name": "Dr. Aditya Iyer",
     "speciality": "Cardiology",
-    "location": "Sundarapuram",
+    "location": "Sundarapuram, Coimbatore",
     "certifications": [
       "DM (Cardiology)"
     ],
@@ -1215,7 +1215,7 @@
   {
     "name": "Dr. Naina Sharma",
     "speciality": "Dermatology",
-    "location": "Kurichi",
+    "location": "Kurichi, Coimbatore",
     "certifications": [
       "MD (Dermatology)"
     ],
@@ -1224,7 +1224,7 @@
   {
     "name": "Dr. Yuvan Patel",
     "speciality": "Orthopedics",
-    "location": "Sidhapudur",
+    "location": "Sidhapudur, Coimbatore",
     "certifications": [
       "MS (Orthopedics)"
     ],
@@ -1233,7 +1233,7 @@
   {
     "name": "Dr. Myra Reddy",
     "speciality": "Pediatrics",
-    "location": "Athuppalam",
+    "location": "Athuppalam, Coimbatore",
     "certifications": [
       "MD (Pediatrics)"
     ],
@@ -1242,14 +1242,14 @@
   {
     "name": "Dr. Siddharth Kumar",
     "speciality": "Neurology",
-    "location": "Selvapuram",
+    "location": "Selvapuram, Coimbatore",
     "certifications": [],
     "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
   },
   {
     "name": "Dr. Ananya Singh",
     "speciality": "Gynaecology",
-    "location": "Pattanam",
+    "location": "Pattanam, Coimbatore",
     "certifications": [
       "MS (Obstetrics & Gynaecology)"
     ],
@@ -1258,7 +1258,7 @@
   {
     "name": "Dr. Vikram Menon",
     "speciality": "ENT",
-    "location": "Ondipudur",
+    "location": "Ondipudur, Coimbatore",
     "certifications": [
       "MS (ENT)"
     ],
@@ -1267,7 +1267,7 @@
   {
     "name": "Dr. Ishani Nair",
     "speciality": "Ophthalmology",
-    "location": "Neelikonampalayam",
+    "location": "Neelikonampalayam, Coimbatore",
     "certifications": [
       "DO"
     ],
@@ -1276,14 +1276,14 @@
   {
     "name": "Dr. Aryan Gupta",
     "speciality": "Pulmonology",
-    "location": "Uppilipalayam",
+    "location": "Uppilipalayam, Coimbatore",
     "certifications": [],
     "availability": "Mondays and Thursdays, 10 AM - 6 PM"
   },
   {
     "name": "Dr. Kiara Iyer",
     "speciality": "Endocrinology",
-    "location": "Kallimadai",
+    "location": "Kallimadai, Coimbatore",
     "certifications": [
       "DM (Endocrinology)"
     ],
@@ -1292,7 +1292,7 @@
   {
     "name": "Dr. Dev Sharma",
     "speciality": "Gastroenterology",
-    "location": "Nanjundapuram",
+    "location": "Nanjundapuram, Coimbatore",
     "certifications": [
       "DM (Gastroenterology)"
     ],
@@ -1301,7 +1301,7 @@
   {
     "name": "Dr. Eva Kumar",
     "speciality": "Oncology",
-    "location": "Ramanuja Nagar",
+    "location": "Ramanuja Nagar, Coimbatore",
     "certifications": [
       "MD (Radiotherapy)"
     ],
@@ -1310,14 +1310,14 @@
   {
     "name": "Dr. Jai Singh",
     "speciality": "Nephrology",
-    "location": "Vinayagapuram",
+    "location": "Vinayagapuram, Coimbatore",
     "certifications": [],
     "availability": "Tuesdays and Fridays, 10 AM - 6 PM"
   },
   {
     "name": "Dr. Ritu Pillai",
     "speciality": "Rheumatology",
-    "location": "Bharathi Nagar",
+    "location": "Bharathi Nagar, Coimbatore",
     "certifications": [
       "DM (Rheumatology)"
     ],
@@ -1326,7 +1326,7 @@
   {
     "name": "Dr. Neil Reddy",
     "speciality": "Urology",
-    "location": "Velandipalayam",
+    "location": "Velandipalayam, Coimbatore",
     "certifications": [
       "M.Ch (Urology)"
     ],
@@ -1335,14 +1335,14 @@
   {
     "name": "Dr. Zoya Menon",
     "speciality": "Psychiatry",
-    "location": "Seeranaickenpalayam",
+    "location": "Seeranaickenpalayam, Coimbatore",
     "certifications": [],
     "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
   },
   {
     "name": "Dr. Yuvraj Nair",
     "speciality": "General Surgery",
-    "location": "Lawley Road",
+    "location": "Lawley Road, Coimbatore",
     "certifications": [
       "MS (General Surgery)"
     ],
@@ -1351,7 +1351,7 @@
   {
     "name": "Dr. Aisha Iyer",
     "speciality": "General Medicine",
-    "location": "Sukrawarpet",
+    "location": "Sukrawarpet, Coimbatore",
     "certifications": [
       "MD (General Medicine)"
     ],
@@ -1360,7 +1360,7 @@
   {
     "name": "Dr. Krish Gupta",
     "speciality": "Anesthesiology",
-    "location": "Telungupalayam",
+    "location": "Telungupalayam, Coimbatore",
     "certifications": [
       "MD (Anesthesiology)"
     ],
@@ -1369,7 +1369,7 @@
   {
     "name": "Dr. Meera Patel",
     "speciality": "Radiology",
-    "location": "P.N. Pudur",
+    "location": "P.N. Pudur, Coimbatore",
     "certifications": [
       "DMRD"
     ],
@@ -1378,7 +1378,7 @@
   {
     "name": "Dr. Arjun Sharma",
     "speciality": "Cardiology",
-    "location": "Koundampalayam",
+    "location": "Koundampalayam, Coimbatore",
     "certifications": [
       "DM (Cardiology)"
     ],
@@ -1387,7 +1387,7 @@
   {
     "name": "Dr. Diya Singh",
     "speciality": "Dermatology",
-    "location": "Cheran Nagar",
+    "location": "Cheran Nagar, Coimbatore",
     "certifications": [
       "MD (Dermatology)"
     ],
@@ -1396,14 +1396,14 @@
   {
     "name": "Dr. Ishaan Pillai",
     "speciality": "Orthopedics",
-    "location": "Idigarai",
+    "location": "Idigarai, Coimbatore",
     "certifications": [],
     "availability": "Tuesdays and Fridays, 8 AM - 4 PM"
   },
   {
     "name": "Dr. Kavya Krishnan",
     "speciality": "Pediatrics",
-    "location": "Ashokapuram",
+    "location": "Ashokapuram, Coimbatore",
     "certifications": [
       "MD (Pediatrics)"
     ],
@@ -1412,7 +1412,7 @@
   {
     "name": "Dr. Mihir Kumar",
     "speciality": "Neurology",
-    "location": "Anna Nagar",
+    "location": "Anna Nagar, Coimbatore",
     "certifications": [
       "DM (Neurology)"
     ],
@@ -1421,7 +1421,7 @@
   {
     "name": "Dr. Myra Menon",
     "speciality": "Gynaecology",
-    "location": "KK Pudur",
+    "location": "KK Pudur, Coimbatore",
     "certifications": [
       "MS (Obstetrics & Gynaecology)"
     ],
@@ -1430,14 +1430,14 @@
   {
     "name": "Dr. Vivaan Nair",
     "speciality": "ENT",
-    "location": "VOC Nagar",
+    "location": "VOC Nagar, Coimbatore",
     "certifications": [],
     "availability": "Wednesdays and Saturdays, 8 AM - 4 PM"
   },
   {
     "name": "Dr. Saanvi Iyer",
     "speciality": "Ophthalmology",
-    "location": "Velacheri",
+    "location": "Velacheri, Chennai",
     "certifications": [
       "MS (Ophthalmology)"
     ],
@@ -1446,7 +1446,7 @@
   {
     "name": "Dr. Reyansh Reddy",
     "speciality": "Pulmonology",
-    "location": "Tharamani",
+    "location": "Tharamani, Chennai",
     "certifications": [
       "MD (TB & Chest Diseases)"
     ],
@@ -1455,14 +1455,14 @@
   {
     "name": "Dr. Tara Gupta",
     "speciality": "Endocrinology",
-    "location": "Adyar",
+    "location": "Adyar, Chennai",
     "certifications": [],
     "availability": "Wednesdays and Saturdays, 10 AM - 6 PM"
   },
   {
     "name": "Dr. Ishir Shah",
     "speciality": "Gastroenterology",
-    "location": "Guindy",
+    "location": "Guindy, Chennai",
     "certifications": [
       "DM (Gastroenterology)"
     ],
@@ -1471,7 +1471,7 @@
   {
     "name": "Dr. Anvi Patel",
     "speciality": "Oncology",
-    "location": "T. Nagar",
+    "location": "T. Nagar, Chennai",
     "certifications": [
       "DM (Oncology)"
     ],
@@ -1480,7 +1480,7 @@
   {
     "name": "Dr. Kabir Sharma",
     "speciality": "Nephrology",
-    "location": "Nungambakkam",
+    "location": "Nungambakkam, Chennai",
     "certifications": [
       "DM (Nephrology)"
     ],
@@ -1489,14 +1489,14 @@
   {
     "name": "Dr. Riya Singh",
     "speciality": "Rheumatology",
-    "location": "Kodambakkam",
+    "location": "Kodambakkam, Chennai",
     "certifications": [],
     "availability": "Mondays and Thursdays, 10 AM - 6 PM"
   },
   {
     "name": "Dr. Shaurya Menon",
     "speciality": "Urology",
-    "location": "Vadapalani",
+    "location": "Vadapalani, Chennai",
     "certifications": [
       "M.Ch (Urology)"
     ],
@@ -1505,7 +1505,7 @@
   {
     "name": "Dr. Shanaya Nair",
     "speciality": "Psychiatry",
-    "location": "Ashok Nagar",
+    "location": "Ashok Nagar, Chennai",
     "certifications": [
       "MD (Psychiatry)",
       "Diploma in Counselling"
@@ -1515,14 +1515,14 @@
   {
     "name": "Dr. Aarush Iyer",
     "speciality": "General Surgery",
-    "location": "K.K. Nagar",
+    "location": "K.K. Nagar, Chennai",
     "certifications": [],
     "availability": "Mondays and Thursdays, 9 AM - 5 PM"
   },
   {
     "name": "Dr. Aisha Reddy",
     "speciality": "General Medicine",
-    "location": "Virugambakkam",
+    "location": "Virugambakkam, Chennai",
     "certifications": [
       "MD (General Medicine)"
     ],
@@ -1531,7 +1531,7 @@
   {
     "name": "Dr. Vivaan Kumar",
     "speciality": "Anesthesiology",
-    "location": "Saligramam",
+    "location": "Saligramam, Chennai",
     "certifications": [
       "MD (Anesthesiology)"
     ],
@@ -1540,7 +1540,7 @@
   {
     "name": "Dr. Ananya Gupta",
     "speciality": "Radiology",
-    "location": "Porur",
+    "location": "Porur, Chennai",
     "certifications": [
       "DNB (Radiodiagnosis)"
     ],
@@ -1549,7 +1549,7 @@
   {
     "name": "Dr. Rohan Singh",
     "speciality": "Cardiology",
-    "location": "Mylapore",
+    "location": "Mylapore, Chennai",
     "certifications": [
       "DM (Cardiology)"
     ],
@@ -1558,14 +1558,14 @@
   {
     "name": "Dr. Siya Patel",
     "speciality": "Dermatology",
-    "location": "Mandaveli",
+    "location": "Mandaveli, Chennai",
     "certifications": [],
     "availability": "Tuesdays and Fridays, 9 AM - 5 PM"
   },
   {
     "name": "Dr. Ayaan Sharma",
     "speciality": "Orthopedics",
-    "location": "Royapettah",
+    "location": "Royapettah, Chennai",
     "certifications": [
       "MS (Orthopedics)"
     ],
@@ -1574,7 +1574,7 @@
   {
     "name": "Dr. Ishita Menon",
     "speciality": "Pediatrics",
-    "location": "Triplicane",
+    "location": "Triplicane, Chennai",
     "certifications": [
       "MD (Pediatrics)"
     ],
@@ -1583,7 +1583,7 @@
   {
     "name": "Dr. Krishna Nair",
     "speciality": "Neurology",
-    "location": "Chepauk",
+    "location": "Chepauk, Chennai",
     "certifications": [
       "DM (Neurology)"
     ],
