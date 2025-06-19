@@ -22,13 +22,13 @@ if st.button("Find Specialists"):
         response = requests.post("http://localhost:8000/specialist-agent", json={"query": clinic_jd})
         st.success(response.json()["response"])
         
-st.markdown("---")
-st.header("Outreach & Contract Generator Agent")
+# st.markdown("---")
+# st.header("Outreach & Contract Generator Agent")
 
-outreach_query = st.text_area("Describe your outreach need (e.g., need a short-term dermatologist in Chennai):")
+# outreach_query = st.text_area("Describe your outreach need (e.g., need a short-term dermatologist in Chennai):")
 
-if st.button("Generate Outreach & MoU"):
-    with st.spinner("Generating strategy and contract..."):
-        response = requests.post("http://localhost:8000/outreach-agent", json={"query": outreach_query})
-        st.success(response.json()["response"])
+# if st.button("Generate Outreach & MoU"):
+#     with st.spinner("Generating strategy and contract..."):
+#         response = requests.post("http://localhost:8000/outreach-agent", json={"query": outreach_query})
+#         st.success(response.json()["response"])
 

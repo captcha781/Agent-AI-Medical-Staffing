@@ -1,5 +1,6 @@
 import os
 import json
+import requests
 from dotenv import load_dotenv
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
@@ -8,7 +9,7 @@ from langchain.chains.retrieval_qa.base import RetrievalQA
 
 load_dotenv()
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-
+api_url = "https://632012e69f82827dcf243f80.mockapi.io/api/doctors" # This API provides first 100 records of doctors from the doctors.json file and consider this as an external datasource.
 
 def create_vector_store(data):
     docs = [
@@ -60,9 +61,12 @@ def run_compliance_agent(clinic_query: str, vectorstore):
 
 
 def run_agent(user_query):
-    file_path = "/home/bhuvanesh/Workspace/AI Agent/hosp-retrieval/data/doctors.json"
-    with open(file_path, "r") as f:
-        data = json.load(f)
+    response = requests.get(api_url)
+    
+    if response.status_code != 200:
+        return f"Failed to fetch doctor data. Status code: {response.status_code}"
+
+    data = response.json()
 
     vectorstore = create_vector_store(data)
     
@@ -78,9 +82,12 @@ def run_agent(user_query):
 def run_specialist_agent(clinic_jd: str):
     """Specialist Matching Agent – Pairs clinic roles with doctors based on location, specialization, schedule fit, and prior visiting experience."""
 
-    file_path = "/home/bhuvanesh/Workspace/AI Agent/hosp-retrieval/data/doctors.json"
-    with open(file_path, "r") as f:
-        doctors = json.load(f)
+    response = requests.get(api_url)
+    
+    if response.status_code != 200:
+        return f"Failed to fetch doctor data. Status code: {response.status_code}"
+
+    doctors = response.json()
 
     vectorstore = create_vector_store(doctors)
 
@@ -103,12 +110,15 @@ def run_specialist_agent(clinic_jd: str):
     return rag_chain.run(prompt)
 
 
-def run_outreach_agent(user_query: str):
+def run_outreach_agent(user_query: str, specialist_response: str):
     """Outreach & Contract Generator Agent"""
 
-    file_path = "/home/bhuvanesh/Workspace/AI Agent/hosp-retrieval/data/doctors.json"
-    with open(file_path, "r") as f:
-        doctors = json.load(f)
+    response = requests.get(api_url)
+    
+    if response.status_code != 200:
+        return f"Failed to fetch doctor data. Status code: {response.status_code}"
+
+    doctors = response.json()
 
     vectorstore = create_vector_store(doctors)
 
@@ -123,11 +133,30 @@ def run_outreach_agent(user_query: str):
         f"You are an Outreach & Contract Generator Agent.\n"
         f"Given the following clinic requirement:\n"
         f"\"{user_query}\"\n\n"
-        f"1. List out the matching medical professionals names for the given query\n"
-        f"2. Recommend the most effective contact strategy (email, referral, portal).\n"
-        f"3. Draft a professional outreach message.\n"
-        f"4. Generate a preliminary contract or MoU template suitable for short-term roles.\n"
+        f"And a shortlist of doctors:\n"
+        f"{specialist_response}\n\n"
+        f"Your tasks are:\n"
+        f"1. Recommend the most effective contact strategy (email, referral, portal).\n"
+        f"2. Draft a professional outreach message to the medical professional reach them for the clinic requirement.\n"
+        f"3. Generate a preliminary contract or MoU template suitable for short-term roles.\n"
         f"Structure your output clearly under the headings: Strategy, Message, Contract."
     )
 
     return rag_chain.run(prompt)
+
+
+def run_specialist_to_outreach_chain(clinic_jd: str):
+
+    specialist_response = run_specialist_agent(clinic_jd)
+
+    outreach_query = (
+        f"A clinic is hiring for the following JD:\n"
+        f"{clinic_jd}\n\n"
+        f"The shortlisted doctor profiles are:\n{specialist_response}\n\n"
+        f"Based on this, recommend an outreach strategy and draft a contract template."
+    )
+
+    outreach_response = run_outreach_agent(clinic_jd ,outreach_query)
+
+    return outreach_response
+

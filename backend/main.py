@@ -1,5 +1,5 @@
 from fastapi import FastAPI, Request
-from rag_agent import run_agent, run_specialist_agent, run_outreach_agent
+from rag_agent import run_agent, run_specialist_agent, run_outreach_agent, run_specialist_to_outreach_chain
 import os
 import json
 
@@ -21,7 +21,7 @@ async def query_agent(request: Request):
 async def specialist_agent(request: Request):
     body = await request.json()
     query = body.get("query")
-    response = run_specialist_agent(query)
+    response = run_specialist_to_outreach_chain(query)
     print(f"User query: {query}")
     print(f"Agent response: {response}")
     if not response:
