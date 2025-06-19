@@ -67,6 +67,7 @@ streamlit run frontend/app.py
 📁 backend/
 │   ├── main.py                # FastAPI server with endpoints
 │   ├── rag_agent.py           # All AI agent logic
+│   ├── server.py              # Runs the uvicorn server instance of FastAPI
 │
 📁 data/
 │   └── doctors.json           # (Unused now - replaced by mock API)
@@ -121,7 +122,7 @@ https://632012e69f82827dcf243f80.mockapi.io/api/doctors
 ## ⚙️ Setup (Local)
 
 ```bash
-git clone https://github.com/captcha781/Agent-AI-Medical-Staffing
+git clone https://github.com/captcha781/Agent-AI-Medical-Staffing.git
 cd Agent-AI-Medical-Staffing
 pip install virtualenv
 virtualenv venv
